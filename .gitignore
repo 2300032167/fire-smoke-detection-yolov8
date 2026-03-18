@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+.env
+output/
+results/
+data/
+Flame/
+*.pyc
